@@ -1,5 +1,6 @@
 A Powerline style prompt for your shell
 =======================================
+`Fork milkbikis to learn python and take it as my first python learning project.`
 
 A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash, ZSH and Fish:
 
